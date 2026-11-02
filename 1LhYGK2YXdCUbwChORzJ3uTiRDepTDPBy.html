@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#332411">
+<title>זֶרַע — Carte conceptuelle interactive | Le Langage du Vivant</title>
+<style>
+:root{--ink:#2e2417;--gold:#c28a2d;--cream:#fff8e9;--paper:#f4e5c5;--plum:#57314f;--blue:#174b61}
+*{box-sizing:border-box}
+body{margin:0;background:#201a12;color:var(--ink);font-family:Georgia,"Times New Roman",serif}
+header{max-width:1180px;margin:auto;padding:22px 18px 12px;color:#fff4df}
+header h1{margin:0;font-size:clamp(1.6rem,4vw,2.5rem);font-weight:700}
+header p{margin:7px 0 0;color:#e7d7b8;font: .98rem/1.45 system-ui,sans-serif}
+main{max-width:1180px;margin:auto;padding:12px 14px 34px}
+.layout{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(270px,.8fr);gap:16px;align-items:start}
+.visual{position:relative;background:#3a2a17;border:1px solid #9b712f;border-radius:16px;overflow:hidden;box-shadow:0 12px 35px #0008}
+.visual img{display:block;width:100%;height:auto}
+.hotspot{position:absolute;border:2px solid #fff2b5;background:#4c2d0c22;border-radius:14px;cursor:pointer;transition:.15s;box-shadow:0 0 0 1px #633e15aa}
+.hotspot:focus-visible,.hotspot:hover,.hotspot.active{outline:3px solid #fff4bd;background:#ffd45b33;box-shadow:0 0 0 4px #7b4d19aa}
+.hotspot span{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);background:#2d2116e8;color:#fff4df;padding:4px 8px;border-radius:20px;font:600 11px/1.2 system-ui,sans-serif;white-space:nowrap}
+.h1{left:1.5%;top:1.5%;width:41%;height:24%}.h2{right:1.5%;top:1.5%;width:41%;height:24%}
+.h3{left:1.5%;top:29%;width:30%;height:17%}.h4{right:1.5%;top:29%;width:30%;height:17%}
+.h5{left:1.5%;top:51%;width:32%;height:19%}.h6{right:1.5%;top:52%;width:32%;height:19%}
+.h7{left:1.5%;bottom:14%;width:42%;height:17%}.h8{right:1.5%;bottom:14%;width:42%;height:17%}
+.panel{background:var(--cream);border:1px solid #c69b53;border-radius:16px;padding:19px;position:sticky;top:12px;box-shadow:0 12px 30px #0005}
+.eyebrow{font:700 .72rem system-ui,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:#876126}
+.panel h2{font-size:1.5rem;margin:.35rem 0 .65rem}
+.panel p,.panel li{font:1rem/1.55 system-ui,sans-serif}
+.panel ul{padding-left:1.2rem}
+.refs{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.refs a,.nav button{display:inline-block;border:1px solid #b78b45;border-radius:999px;padding:8px 11px;color:#533812;background:#fffaf0;text-decoration:none;font:600 .82rem system-ui,sans-serif}
+.refs a:hover,.nav button:hover,.nav button.active{background:#ead4a8}
+.nav{display:flex;flex-wrap:wrap;gap:7px;margin:14px 0}
+.nav button{cursor:pointer}
+.note{font: .82rem/1.5 system-ui,sans-serif;color:#ead9b7;margin:12px 4px}
+.lineages{margin-top:18px;background:#f8edda;border-radius:16px;padding:18px;border:1px solid #b88a43}
+.lineages h2{margin:0 0 10px}
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.lineage{background:#fffaf0;border:1px solid #d5b77e;border-radius:12px;padding:13px}
+.lineage h3{margin:0 0 6px;font-size:1.05rem}
+.lineage p{margin:0;font: .9rem/1.5 system-ui,sans-serif}
+.lineage a{display:inline-block;margin-top:9px;color:#68450f;font:600 .82rem system-ui,sans-serif}
+footer{color:#dfcfb1;text-align:center;padding:16px;font: .8rem system-ui,sans-serif}
+@media(max-width:820px){.layout{grid-template-columns:1fr}.panel{position:static}.cards{grid-template-columns:1fr}.hotspot span{font-size:9px;padding:3px 5px}.visual{border-radius:10px}}
+@media(max-width:420px){header{padding-top:16px}.hotspot{border-width:1px;border-radius:7px}.hotspot span{white-space:normal;text-align:center;max-width:90%;font-size:8px}}
+</style>
+</head>
+<body><nav aria-label="Navigation du projet" style="padding:12px;display:flex;gap:16px;flex-wrap:wrap;background:#173b34;color:#fff;font:16px system-ui"><a style="color:#ffe3a3" href="index.html">Index maître</a><a style="color:#ffe3a3" href="1dH4aQPVyzaVhNxw2N6WqOOgcv4hkxvIh.html">Fresque immersive</a></nav>
+<header>
+  <h1>זֶרַע — Zéra‘</h1>
+  <p>Carte conceptuelle interactive · Semence, graine, descendance et transmission de la vie</p>
+</header>
+<main>
+<div class="layout">
+<section>
+ <div class="visual" aria-label="Carte illustrée avec huit zones interactives">
+  <img alt="Carte illustrée de זֶרַע, la semence" src="assets/6f376f4b093134c25ab20e892140b7752935397a31e6f05b667c47dd7fd3ee28.png">
+  <button class="hotspot h1" data-id="seed" aria-label="Ouvrir le sens premier : semence"><span>1 · Semence</span></button>
+  <button class="hotspot h2" data-id="harvest" aria-label="Ouvrir produits et récoltes"><span>2 · Récoltes</span></button>
+  <button class="hotspot h3" data-id="virile" aria-label="Ouvrir semence virile"><span>3 · Semence virile</span></button>
+  <button class="hotspot h4" data-id="desc" aria-label="Ouvrir descendance"><span>4 · Descendance</span></button>
+  <button class="hotspot h5" data-id="israel" aria-label="Ouvrir peuple d’Israël"><span>5 · Israël</span></button>
+  <button class="hotspot h6" data-id="figurative" aria-label="Ouvrir sens figuré"><span>6 · Sens figuré</span></button>
+  <button class="hotspot h7" data-id="bad" aria-label="Ouvrir le mauvais sens"><span>7 · Sens négatif</span></button>
+  <button class="hotspot h8" data-id="grammar" aria-label="Ouvrir usage grammatical"><span>8 · Verbes associés</span></button>
+ </div>
+ <p class="note">Touchez une zone numérotée de la carte pour afficher son contenu. Sur téléphone, le panneau explicatif apparaît sous l’illustration.</p>
+</section>
+<aside class="panel" aria-live="polite">
+ <div class="eyebrow" id="eyebrow">Notion centrale</div>
+ <h2 id="title">זֶרַע — Zéra‘</h2>
+ <div id="content"><p>Le terme désigne la semence, la graine et, par extension, la descendance ou la postérité. Son sens précis dépend du contexte biblique.</p><p>Choisis une des huit zones de l’image pour explorer les emplois relevés dans les sources lexicales.</p></div>
+ <div class="refs" id="refs"></div>
+</aside>
+</div>
+
+<section class="lineages">
+ <h2>Trois axes de la descendance promise</h2>
+ <div class="cards">
+  <article class="lineage"><h3>La זֶרַע de la femme</h3><p>Genèse 3.15 : la descendance de la femme et l’inimitié annoncée contre le serpent. Lire le texte dans son contexte avant d’en développer l’interprétation messianique.</p><a href="https://www.sefaria.org/Genesis.3.15" target="_blank" rel="noopener">Genèse 3.15 — texte hébreu ↗</a></article>
+  <article class="lineage"><h3>La זֶרַע d’Abraham</h3><p>La promesse faite à Abraham, sa descendance et la bénédiction des familles de la terre. Galates 3 développe la lecture apostolique de cette promesse.</p><a href="1rZEFDzPGqqpRVhCLtv91uEWLQqjG6RUW.html#c250-descendance-alliances-heritage-nations-20261017" target="_blank" rel="noopener">Étude C250 — descendance et héritage ↗</a></article>
+  <article class="lineage"><h3>La זֶרַע d’Israël</h3><p>Emploi collectif pour désigner Israël, Jacob ou le peuple, y compris les générations futures dans le langage prophétique.</p><a href="1rZEFDzPGqqpRVhCLtv91uEWLQqjG6RUW.html#c234-deux-semences-lignees-genese-20261017" target="_blank" rel="noopener">Étude C234 — lignées de la Genèse ↗</a></article>
+ </div>
+</section>
+<div class="nav" aria-label="Navigation des thèmes">
+ <button data-id="seed" class="active">Semence</button><button data-id="harvest">Récoltes</button><button data-id="virile">Semence virile</button><button data-id="desc">Descendance</button><button data-id="israel">Israël</button><button data-id="figurative">Sens figuré</button><button data-id="bad">Sens négatif</button><button data-id="grammar">Verbes associés</button>
+</div>
+</main>
+<footer>Le Langage du Vivant · Carte de travail · Les correspondances interprétatives doivent être distinguées des sens lexicaux attestés.</footer>
+<script>
+const data={
+seed:{eyebrow:"1 · Sens premier",title:"זֶרַע — Semence et graine",html:"<p><b>זֶרַע</b> désigne d’abord la graine ou la semence destinée à être semée. Le terme peut aussi désigner l’ensemencement, notamment le cycle qui revient à sa saison.</p><ul><li>Une graine déposée en terre.</li><li>Un ensemencement en vue d’une récolte.</li><li>Un processus de renouvellement agricole.</li></ul><p><b>Repère :</b> Genèse 1.11 présente la végétation portant sa semence en elle.</p>",links:[["Genèse 1.11","https://www.sefaria.org/Genesis.1.11"],["Étude C233 — semence, racine, fruit","https://drive.google.com/file/d/1rZEFDzPGqqpRVhCLtv91uEWLQqjG6RUW/view#c233-semence-racine-fruit-recolte-20261017"]]},
+harvest:{eyebrow:"2 · Produit de la semence",title:"Graine, nourriture et récolte",html:"<p>Le mot peut désigner la semence comme produit agricole : grains, céréales, graines d’herbes et d’arbres. Le lexique rapproche aussi l’apparence de la manne de la graine de coriandre.</p><ul><li>Blé et autres céréales.</li><li>Semences d’herbes et d’arbres.</li><li>Manne comparée à la graine de coriandre.</li></ul><p>Il faut distinguer la graine semée, le produit récolté et la récolte elle-même selon le passage.</p>",links:[["Genèse 1.11","https://www.sefaria.org/Genesis.1.11"],["Nombres 11.7","https://www.sefaria.org/Numbers.11.7"],["Genèse 47.23","https://www.sefaria.org/Genesis.47.23"]]},
+virile:{eyebrow:"3 · Sens biologique",title:"שִׁכְבַת־זֶרַע — Semence virile",html:"<p>Dans certains contextes, <b>זֶרַע</b> désigne la semence masculine ou le sperme. L’expression <b>שִׁכְבַת־זֶרַע</b> est employée pour l’écoulement de semence.</p><p>Ce sens biologique doit être lu dans les textes concernés, sans le confondre automatiquement avec les emplois agricoles ou ceux qui désignent une descendance.</p>",links:[["Lévitique 15","https://www.sefaria.org/Leviticus.15"]]},
+desc:{eyebrow:"4 · Postérité",title:"זֶרַע — Descendance et lignée",html:"<p>Appliqué aux humains, <b>זֶרַע</b> désigne collectivement les descendants, la postérité et la lignée. Selon le contexte, il peut viser un fils porteur d’une postérité, des enfants et petits-enfants, une famille ou une maison royale.</p><ul><li>Descendance des patriarches, particulièrement Abraham.</li><li>Postérité de David et lignée royale.</li><li>Descendance de Noé, Aaron et Phinéas.</li><li>Famille, généalogie ou nation issue d’une même lignée.</li></ul>",links:[["Genèse 3.15","https://www.sefaria.org/Genesis.3.15"],["Étude C250 — descendance promise","https://drive.google.com/file/d/1rZEFDzPGqqpRVhCLtv91uEWLQqjG6RUW/view#c250-descendance-alliances-heritage-nations-20261017"],["Étude C432 — sceptre de Juda et Roi messianique","https://drive.google.com/file/d/1p1b9XljOVKgyPZFqLSFbkJug4p6vxfbm/view#c432-original-20261022"]]},
+israel:{eyebrow:"5 · Emploi collectif",title:"La זֶרַע d’Israël",html:"<p>Le terme peut désigner collectivement le peuple d’Israël, ou la descendance d’Israël/Jacob. Les prophètes l’emploient aussi pour parler des générations futures auxquelles ils s’adressent.</p><p>Cet emploi souligne une continuité de peuple et de génération. Il ne faut pas réduire chaque occurrence à un individu isolé : le contexte détermine si le mot vise une personne, une lignée ou une collectivité.</p>",links:[["Psaume 22.24","https://www.sefaria.org/Psalms.22.24"],["Ésaïe 41.8","https://www.sefaria.org/Isaiah.41.8"],["Étude C234 — lignées de la Genèse","https://drive.google.com/file/d/1rZEFDzPGqqpRVhCLtv91uEWLQqjG6RUW/view#c234-deux-semences-lignees-genese-20261017"]]},
+figurative:{eyebrow:"6 · Emploi figuré",title:"Semer la justice et la lumière",html:"<p>Le verbe <b>זָרַע</b> peut être employé figurativement : semer la justice, ou présenter la lumière comme semée pour le juste. Le langage de la semence sert alors à exprimer une action dont le résultat se manifestera en son temps.</p><ul><li>Semer la justice : Proverbes 11.18.</li><li>La lumière semée pour le juste : Psaume 97.11.</li><li>La restauration d’une terre labourée et ensemencée : Ézéchiel 36.9.</li></ul><p>La portée spirituelle est une lecture du contexte figuré, non une définition unique de toutes les occurrences de זֶרַע.</p>",links:[["Proverbes 11.18","https://www.sefaria.org/Proverbs.11.18"],["Psaume 97.11","https://www.sefaria.org/Psalms.97.11"],["Ézéchiel 36.9","https://www.sefaria.org/Ezekiel.36.9"]]},
+bad:{eyebrow:"7 · Qualité morale",title:"זֶרַע מְרֵעִים — Descendance de malfaiteurs",html:"<p>Le lexique signale aussi un emploi moral : <b>זֶרַע</b> peut désigner des personnes ou une communauté caractérisées par une qualité donnée. Dans un sens négatif, <b>זֶרַע מְרֵעִים</b> signifie une communauté de malfaiteurs.</p><p>Le mot « semence » ne porte donc pas, à lui seul, une valeur morale positive. C’est le contexte qui indique la qualité attribuée à la descendance ou au groupe.</p>",links:[["Ésaïe 1.4","https://www.sefaria.org/Isaiah.1.4"]]},
+grammar:{eyebrow:"8 · Verbes associés",title:"Les verbes qui accompagnent זֶרַע",html:"<p>Le texte lexical cite plusieurs verbes associés à la semence et à sa transmission :</p><ul><li><b>נָתַן</b> : donner.</li><li><b>שִׂים</b> : mettre, placer.</li><li><b>הֵקִים</b> : établir, susciter.</li><li><b>חִיָּה זֶרַע</b> : maintenir en vie ou donner la vie à la semence.</li><li><b>זָרַע</b> : semer, répandre, planter.</li></ul><p>Le sens exact de chaque construction dépend de sa syntaxe et du passage où elle apparaît.</p>",links:[["Genèse 47.23","https://www.sefaria.org/Genesis.47.23"],["Ézéchiel 36.9","https://www.sefaria.org/Ezekiel.36.9"]]}
+};
+function select(id){
+ const d=data[id]; if(!d)return;
+ document.getElementById("eyebrow").textContent=d.eyebrow;
+ document.getElementById("title").textContent=d.title;
+ document.getElementById("content").innerHTML=d.html;
+ const refs=document.getElementById("refs"); refs.innerHTML="";
+ d.links.forEach(([label,url])=>{const a=document.createElement("a");a.href=url;a.target="_blank";a.rel="noopener";a.textContent=label+" ↗";refs.appendChild(a)});
+ document.querySelectorAll("[data-id]").forEach(el=>el.classList.toggle("active",el.dataset.id===id));
+}
+document.querySelectorAll("[data-id]").forEach(el=>el.addEventListener("click",()=>select(el.dataset.id)));
+select("seed");
+</script>
+</body>
+</html>
