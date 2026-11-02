@@ -1,0 +1,1669 @@
+{
+  "pages": 162,
+  "rewritten_links": 4112,
+  "unresolved": [
+    {
+      "source": "1Lmj89NYBpo-EECtukubuu-VxTij6HN0Q",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1RJZ23qUj8nrRcct2ddbtih-8Rte6BY3r",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-zacharie3-josue-vetements-pierre-sept-yeux",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1RJZ23qUj8nrRcct2ddbtih-8Rte6BY3r",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-yeux-zacharie3-zacharie4-apocalypse5",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1RJZ23qUj8nrRcct2ddbtih-8Rte6BY3r",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-lampes-menorah-zacharie4-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1RJZ23qUj8nrRcct2ddbtih-8Rte6BY3r",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-zacharie4-huile-philologie-integree",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1RJZ23qUj8nrRcct2ddbtih-8Rte6BY3r",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-zacharie6-tsemach-germe-roi-pretre",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1RJZ23qUj8nrRcct2ddbtih-8Rte6BY3r",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-comparaison-zacharie3-4-apocalypse4-5-sept",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1wM7QpW7D7VM0bv5DcbKQfWsfvVsXCwUN",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1_M234q4Qq-nDQCt_x74POIWM2_ZwymeB",
+      "url": "ETUDE_DANIEL7_APOCALYPSE13_17_CORNES_SAINTS.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-pierres-pectoral-fondements",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-pectorale-aaron-fondements-gemmes-hebreu-septante-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-daniel9-hatam-sceller-vision-prophete",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-carte-eden-ezechiel-nouvelle-jerusalem",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-pierres-pectorale-aaron-fondements-jerusalem",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-apocalypse11-temple-mesure-42-mois-daniel9-luc21-jerusalem70",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#hub-germe-pierre-fondements",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-ezechiel28-neuf-douze-pierres-eden-pectorale",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-yeux-pierre-agneau-esprit",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-pierre",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#hub-sept-yeux-pierre-trone",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-esaie53-serviteur-souffrant-agneau-passion-descendance",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-jerusalem-celeste-douze-portes-fondements-ezechiel48",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+      "url": "OUVRIR_LE_PORTAIL.html#parcours-benjamin-epaules-temple",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1NV6bG7Hk4q8R_P4mXMq9Cf3QeMuISiuL",
+      "url": "ETUDE_NOM_NOUVEAU_PIERRE_BLANCHE_NOUVELLE_JERUSALEM_ESAIE56_62_APOCALYPSE2_3_22.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1JHeCgYlrAEP0mWgo8WTrdN53yjwqdVHW",
+      "url": "ETUDE_DANIEL7_APOCALYPSE13_17_CORNES_SAINTS.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1xA5ajulCr1QMpSaZ7yMnUm5sOQAZCff3",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1xA5ajulCr1QMpSaZ7yMnUm5sOQAZCff3",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1L_6zL4Y_ZrzL-Jk8lioqbq3aiWnhhCvm",
+      "url": "ETUDE_DANIEL7_APOCALYPSE13_17_CORNES_SAINTS.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1-Xoke6phTaXPIZkisoUXPPDJfeWBoObg",
+      "url": "ETUDE_NOM_NOUVEAU_PIERRE_BLANCHE_NOUVELLE_JERUSALEM_ESAIE56_62_APOCALYPSE2_3_22.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1DdsLqMlVzETvskTdPGfOpASA1phGy3zm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-pierres-hebreu-septante-benjamin-yashfeh",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DdsLqMlVzETvskTdPGfOpASA1phGy3zm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-pierres-pectorale-aaron-fondements-jerusalem",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DdsLqMlVzETvskTdPGfOpASA1phGy3zm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1839hGHmizO01LEqjp7bCpuabntbcyOG3",
+      "url": "ETUDE_NOM_NOUVEAU_PIERRE_BLANCHE_NOUVELLE_JERUSALEM_ESAIE56_62_APOCALYPSE2_3_22.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1sdmshXxUvmcQCMRDkrKPe0U0gNu6oJQh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1sdmshXxUvmcQCMRDkrKPe0U0gNu6oJQh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-pierres-hebreu-septante-benjamin-yashfeh",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1sdmshXxUvmcQCMRDkrKPe0U0gNu6oJQh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-yashfeh-jaspe-benjamin-apocalypse21",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DpZOwR_hv6BdzLJdFw7vW4kTvd5ifjMm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DpZOwR_hv6BdzLJdFw7vW4kTvd5ifjMm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-romains11-olivier-israel-nations",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DpZOwR_hv6BdzLJdFw7vW4kTvd5ifjMm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-apocalypse11-temple-mesure-42-mois-daniel9-luc21-jerusalem70",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DpZOwR_hv6BdzLJdFw7vW4kTvd5ifjMm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-collation-pierres-hebreu-septante-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DpZOwR_hv6BdzLJdFw7vW4kTvd5ifjMm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-daniel-nagid-prince-alliance",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DpZOwR_hv6BdzLJdFw7vW4kTvd5ifjMm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-daniel-neuf-alliance-hebreu",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DpZOwR_hv6BdzLJdFw7vW4kTvd5ifjMm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-daniel-neuf-collation-propositions",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DpZOwR_hv6BdzLJdFw7vW4kTvd5ifjMm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-daniel-neuf-grec-septante-theodotion",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DpZOwR_hv6BdzLJdFw7vW4kTvd5ifjMm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-daniel-neuf-prince-venir",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DpZOwR_hv6BdzLJdFw7vW4kTvd5ifjMm",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-daniel-neuf-vingt-quatre-trois-fautes-expiation",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1mF1Rx3vgqp2jTAPN8P4IrAqDmoJ_SY-5",
+      "url": "ETUDE_DANIEL7_APOCALYPSE13_17_CORNES_SAINTS.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1U4Q0jSLdSY8y_YbxTnjQwhdi1JzjwxLT",
+      "url": "ETUDE_DANIEL7_APOCALYPSE13_17_CORNES_SAINTS.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1-pD4lqhGaLnP-g_BiReZfjv5S3x_nsjV",
+      "url": "ETUDE_DANIEL7_APOCALYPSE13_17_CORNES_SAINTS.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1DULA_9hkGbVzJqOwLaJGjlthds-O6dKh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1qQXlIVgqL89Yp3kdMMtDU4pHEBHtOw4e",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1qQXlIVgqL89Yp3kdMMtDU4pHEBHtOw4e",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-benjamin-loup-bien-aime-demeure-jaspe",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1qQXlIVgqL89Yp3kdMMtDU4pHEBHtOw4e",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-yashfeh-jaspe-benjamin-apocalypse21",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1qQXlIVgqL89Yp3kdMMtDU4pHEBHtOw4e",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-traditions-antiques-yashfeh-benjamin",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1qQXlIVgqL89Yp3kdMMtDU4pHEBHtOw4e",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-pierres-hebreu-septante-benjamin-yashfeh",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1qQXlIVgqL89Yp3kdMMtDU4pHEBHtOw4e",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-allon-bacuth-rachel-ben-oni-benjamin-pleurs-consolation",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1qQXlIVgqL89Yp3kdMMtDU4pHEBHtOw4e",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-ben-oni-benjamin-serviteur-souffrant-droite-messie",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1qQXlIVgqL89Yp3kdMMtDU4pHEBHtOw4e",
+      "url": "OUVRIR_LE_PORTAIL.html#etude-iaspis-yashfeh-couleurs",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1PbR9FUWJMHdVxi2CLZHT28OScc_jEjn_",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1PbR9FUWJMHdVxi2CLZHT28OScc_jEjn_",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-benjamin-loup-bien-aime-demeure-jaspe",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1PbR9FUWJMHdVxi2CLZHT28OScc_jEjn_",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-allon-bacuth-rachel-ben-oni-benjamin-pleurs-consolation",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1PbR9FUWJMHdVxi2CLZHT28OScc_jEjn_",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-pierres-pectorale-aaron-fondements-jerusalem",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1PbR9FUWJMHdVxi2CLZHT28OScc_jEjn_",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-jerusalem-celeste-douze-portes-fondements-ezechiel48",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1PbR9FUWJMHdVxi2CLZHT28OScc_jEjn_",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-depart-retour-kavod-temples-jerusalem",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1IWg1e7LdQ6EjHhv_Uqlo7IIOIQklqxrw",
+      "url": "ETUDE_TRADITIONS_BENJAMIN_YASHFEH.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1vuxIkuDxY1kPTbqEhR4rjohI-aZrT75u",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1vuxIkuDxY1kPTbqEhR4rjohI-aZrT75u",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-romains11-olivier-israel-nations",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1vuxIkuDxY1kPTbqEhR4rjohI-aZrT75u",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1-tO7YrVljR57FQSOor_jfPSZaV_1wHvV",
+      "url": "ETUDE_DANIEL7_APOCALYPSE13_17_CORNES_SAINTS.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1EQD2CCF-IU-harD3NJl8EioYlcVIOZm2",
+      "url": "ETUDE_DANIEL7_APOCALYPSE13_17_CORNES_SAINTS.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1yuLqNcPLFRURgTQKm4b33UY4bEXgX6SU",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-carte-deux-oliviers-menorah",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1yuLqNcPLFRURgTQKm4b33UY4bEXgX6SU",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-zacharie4-deux-oliviers-menorah-deux-temoins",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1yuLqNcPLFRURgTQKm4b33UY4bEXgX6SU",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-menorah-exode25-calices-boutons-fleurs-arbre",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1yuLqNcPLFRURgTQKm4b33UY4bEXgX6SU",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-deux-oliviers-deux-temoins-zacharie4-apocalypse11",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1D-DoZs_kh4FbQoIO-LxY2R5dNBK0YcyB",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1D-DoZs_kh4FbQoIO-LxY2R5dNBK0YcyB",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1DYs0skfGFHgm0fXc_MLuEG_JU-fCNMUq",
+      "url": "B07_carte_avec_page_dragon.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1DYs0skfGFHgm0fXc_MLuEG_JU-fCNMUq",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1DYs0skfGFHgm0fXc_MLuEG_JU-fCNMUq",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1DYs0skfGFHgm0fXc_MLuEG_JU-fCNMUq",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1DYs0skfGFHgm0fXc_MLuEG_JU-fCNMUq",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1DYs0skfGFHgm0fXc_MLuEG_JU-fCNMUq",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1DYs0skfGFHgm0fXc_MLuEG_JU-fCNMUq",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1DYs0skfGFHgm0fXc_MLuEG_JU-fCNMUq",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1DYs0skfGFHgm0fXc_MLuEG_JU-fCNMUq",
+      "url": "#fiche-1thessaloniciens4-derniere-trompette",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1DYs0skfGFHgm0fXc_MLuEG_JU-fCNMUq",
+      "url": "#fiche-matthieu22-apocalypse19-vetement-noces-fin-lin-254",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1EUJF1OOMFQopDDFeirWckxFy9s52G6ek",
+      "url": "B07_carte_avec_page_dragon.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1rE7l1h5ewCAQh-1CWkLeo8qtA0N6mey5",
+      "url": "B07_carte_avec_page_dragon.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1hUb4kWYPbpasLPtEZrURSVQs8GaDaBQW",
+      "url": "B07_carte_avec_page_dragon.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1CRkrLPOmD_EUGIW2htjO8dHHZ3HRxRmA",
+      "url": "B07_carte_avec_page_dragon.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1CRkrLPOmD_EUGIW2htjO8dHHZ3HRxRmA",
+      "url": "#fiche-zacharie6-tsemach-germe-roi-pretre",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1CRkrLPOmD_EUGIW2htjO8dHHZ3HRxRmA",
+      "url": "#fiche-melchisedek-aaron-messie-hebreux7",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1CRkrLPOmD_EUGIW2htjO8dHHZ3HRxRmA",
+      "url": "#fiche-daniel9-trois-onctions",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1CRkrLPOmD_EUGIW2htjO8dHHZ3HRxRmA",
+      "url": "#fiche-daniel9-oindre-saint-des-saints",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1CRkrLPOmD_EUGIW2htjO8dHHZ3HRxRmA",
+      "url": "#fiche-daniel9-oindre-saint-des-saints",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "12mWra0119saXKYSHvjf4JNsWrRWmmkRW",
+      "url": "B07_carte_avec_page_dragon.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "12mWra0119saXKYSHvjf4JNsWrRWmmkRW",
+      "url": "#fiche-feuilles-guerison-nations-ezechiel47-apocalypse22",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "12mWra0119saXKYSHvjf4JNsWrRWmmkRW",
+      "url": "#fiche-carte-eden-ezechiel-nouvelle-jerusalem",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "14OConQnvU1NNDgIZVBqeuSHadjfjwDIW",
+      "url": "B07_carte_avec_page_dragon.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "14OConQnvU1NNDgIZVBqeuSHadjfjwDIW",
+      "url": "#fiche-douze-fruits-arbre-vie-tribus-apotres",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "14OConQnvU1NNDgIZVBqeuSHadjfjwDIW",
+      "url": "#fiche-feuilles-guerison-nations-ezechiel47-apocalypse22",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "14OConQnvU1NNDgIZVBqeuSHadjfjwDIW",
+      "url": "#fiche-feuilles-guerison-nations-ezechiel47-apocalypse22",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1qel7INvH5XpAycHBkijPugpJgycy523p",
+      "url": "B07_carte_avec_page_dragon.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1BF_Xc9E-JZ4fTxWDX9kKjmwWLiMDBX0l",
+      "url": "B07_carte_avec_page_dragon.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1Sg1UwELtvqLoiIkUhGkF_Ww9ED3JxWrB",
+      "url": "B07_carte_avec_page_dragon.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1cH0rmz688anpJDPbaR9cXu6yTnuwivt7",
+      "url": "B07_carte_avec_page_dragon.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1cH0rmz688anpJDPbaR9cXu6yTnuwivt7",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1cH0rmz688anpJDPbaR9cXu6yTnuwivt7",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1cH0rmz688anpJDPbaR9cXu6yTnuwivt7",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1cH0rmz688anpJDPbaR9cXu6yTnuwivt7",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1cH0rmz688anpJDPbaR9cXu6yTnuwivt7",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1cH0rmz688anpJDPbaR9cXu6yTnuwivt7",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1cH0rmz688anpJDPbaR9cXu6yTnuwivt7",
+      "url": "Le_Langage_du_Vivant_FRESQUE_LIEE_AUX_ETUDES_COMPLETES_MOBILE_TABLETTE.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1cH0rmz688anpJDPbaR9cXu6yTnuwivt7",
+      "url": "#fiche-1thessaloniciens4-derniere-trompette",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1cH0rmz688anpJDPbaR9cXu6yTnuwivt7",
+      "url": "#fiche-matthieu22-apocalypse19-vetement-noces-fin-lin-254",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1xdr7MI57asLcHp_KaH_mNhTQNUmI4O3x",
+      "url": "#v16-083",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1xdr7MI57asLcHp_KaH_mNhTQNUmI4O3x",
+      "url": "#v16-126",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1xdr7MI57asLcHp_KaH_mNhTQNUmI4O3x",
+      "url": "#v16-132",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1xdr7MI57asLcHp_KaH_mNhTQNUmI4O3x",
+      "url": "#v16-144",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/root-mhkfl1k2.css",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/root-lelxp0l2.css#",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/favicon.ico",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/favicon-eex17e9e.ico",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/favicon-l4nq08hd.svg",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/favicon-l4nq08hd.svg",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/favicon-48x48-glnpepm0.webp",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/favicon-180x180-od45eci6.webp",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/manifest-7d861da3.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/entry.client-mmyxp0mj.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/f025431a-ehagpvg3m4e1cduv.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/4813494d-jqq6vszur6n4q8oy.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/2340486e-dn50fs10eca8y4bw.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/d42ee766-dw48mwzqu27uojo4.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/root-oj1780ey.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/share._shareId.(_action)-jd549hwd.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/conversation-small-ezxkv8q5k5c36e5f.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/8b34dbc2-npghwjbpgqphqtss.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/a64f0856-m462faapoprekuva.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/27c18240-blu906be27xekuco.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/ee874e5c-cvdxewajjvmol024.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/30901919-kzk2gsmh10zxq1z0.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/c470f5ab-26p047pdtxjqzgn5.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/0e5afe53-nyz3aci6a5udoq6k.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/82782bc9-c0far1gpsma05znw.js",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+      "url": "/cdn/assets/conversation-small-nauqqjls.css#",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1QZj9op_C4YxKAxVQvzHzcEpBy6HjHGqr",
+      "url": "Le_Langage_du_Vivant_FRESQUE_IMMERSIVE_CONTINUE_MOBILE_TABLETTE.html#parcours-scenes",
+      "target": "1dH4aQPVyzaVhNxw2N6WqOOgcv4hkxvIh",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1QZj9op_C4YxKAxVQvzHzcEpBy6HjHGqr",
+      "url": "Le_Langage_du_Vivant_FRESQUE_IMMERSIVE_CONTINUE_MOBILE_TABLETTE.html#parcours-scenes",
+      "target": "1dH4aQPVyzaVhNxw2N6WqOOgcv4hkxvIh",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1lfazZkp28PVp6IIIOclrNjbVkxkTd027",
+      "url": "Le_Langage_du_Vivant_PORTAIL_PSAUME29_CARTE_VISUELLE.html#fiche-index-general",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-huile-menorah-sept-lampes-sept-yeux-sept-esprits",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-yeux-zacharie3-zacharie4-apocalypse5",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-lampes-menorah-zacharie4-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-carte-deux-oliviers-menorah",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-deux-oliviers-deux-temoins-zacharie4-apocalypse11",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-deux-chandeliers-sept-eglises-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-eglises-apocalypse2-3",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-deux-bois-deux-oliviers-deux-temoins-ezechiel-zacharie-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-zacharie4-deux-oliviers-menorah-deux-temoins",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-menorah-exode25-calices-boutons-fleurs-arbre",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-romains11-olivier-israel-nations",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-huile-menorah-sept-lampes-sept-yeux-sept-esprits",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-yeux-zacharie3-zacharie4-apocalypse5",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-lampes-menorah-zacharie4-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-carte-deux-oliviers-menorah",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-deux-oliviers-deux-temoins-zacharie4-apocalypse11",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-deux-chandeliers-sept-eglises-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-eglises-apocalypse2-3",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-deux-bois-deux-oliviers-deux-temoins-ezechiel-zacharie-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-zacharie4-deux-oliviers-menorah-deux-temoins",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-menorah-exode25-calices-boutons-fleurs-arbre",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-romains11-olivier-israel-nations",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "16M1xgF-RDmZk5QpTbb5b8jpkZZdNBguV",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-zacharie3-josue-vetements-pierre-sept-yeux",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "16M1xgF-RDmZk5QpTbb5b8jpkZZdNBguV",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-yeux-pierre-agneau-esprit",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "16M1xgF-RDmZk5QpTbb5b8jpkZZdNBguV",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-yeux-pierre-roues-cherubins-trone-zacharie-ezechiel-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "16M1xgF-RDmZk5QpTbb5b8jpkZZdNBguV",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-comparaison-zacharie3-4-apocalypse4-5-sept",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1sXF4bk9o30mHAxrhIkxu9q7sLcrGXhru",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-pierres-pectoral-fondements",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1sXF4bk9o30mHAxrhIkxu9q7sLcrGXhru",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-ezechiel28-pierres-eden-pectoral-septante",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1sXF4bk9o30mHAxrhIkxu9q7sLcrGXhru",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1JygI45tUIFQOt-XJ_rynb7-FCnn__UTh",
+      "url": "01_Daniel_statue_empires.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1JygI45tUIFQOt-XJ_rynb7-FCnn__UTh",
+      "url": "02_Daniel_betes_visions.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1JygI45tUIFQOt-XJ_rynb7-FCnn__UTh",
+      "url": "03_Rome_couronnes_rois.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1JygI45tUIFQOt-XJ_rynb7-FCnn__UTh",
+      "url": "04_Dragons_et_pouvoirs.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1JygI45tUIFQOt-XJ_rynb7-FCnn__UTh",
+      "url": "05_Babylone_symboles.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1JygI45tUIFQOt-XJ_rynb7-FCnn__UTh",
+      "url": "Le_Langage_du_Vivant_PORTAIL_APOCALYPSE21_22_EZECHIEL47_FLEUVE_ARBRES_EPOUSE_258.html",
+      "reason": "ancre ou fichier non résolu"
+    },
+    {
+      "source": "1HlVBLdoPrcahjkIAMVFg3xz4cPSSFRbh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-semences",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1HlVBLdoPrcahjkIAMVFg3xz4cPSSFRbh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-racines",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1HlVBLdoPrcahjkIAMVFg3xz4cPSSFRbh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-tronc",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1HlVBLdoPrcahjkIAMVFg3xz4cPSSFRbh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-branches",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1HlVBLdoPrcahjkIAMVFg3xz4cPSSFRbh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-fruits",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1HlVBLdoPrcahjkIAMVFg3xz4cPSSFRbh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-fleuve",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1HlVBLdoPrcahjkIAMVFg3xz4cPSSFRbh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-dragon",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1HlVBLdoPrcahjkIAMVFg3xz4cPSSFRbh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-rapport-collation",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1HlVBLdoPrcahjkIAMVFg3xz4cPSSFRbh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-audit-integrite",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1HlVBLdoPrcahjkIAMVFg3xz4cPSSFRbh",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-semences",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-fruits",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-ventre",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-dragons-compares",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-tetes-dix-cornes",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-huile-menorah-sept-lampes-sept-yeux-sept-esprits",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-melchisedek-aaron-messie-hebreux7",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-lampes-menorah-zacharie4-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-samson-soleil-lion-miel-messie-carte",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-je-suis-jean-pain-lumiere-porte-berger-resurrection-chemin-vigne",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-cyrus-oint-portes-captifs-temple-prefiguration-messie",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-benedictions-jacob-moise-douze-tribus-symboles",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-portes-douze-fondements-pierres-pectorales-apocalypse21",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-nations-gueries-rois-portes-malediction",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-esaie60-rois-nations-gloire-messie",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-lampes-sept-yeux-sept-esprits-agneau",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-quatre-bannieres-quatre-faces",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-cherubins-propitiatoire-voile-dechire",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-apocalypse12-femme-soleil-dragon",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-matthieu13-grain-ivraie-moisson",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "10x_wwVTef2bnyoRPJSBKN4WwttN3iUUi",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-fleuve-ezechiel47-quatre-profondeurs",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "10x_wwVTef2bnyoRPJSBKN4WwttN3iUUi",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-arbres-ezechiel47-feuilles-remede-nations",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "10x_wwVTef2bnyoRPJSBKN4WwttN3iUUi",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-feuilles-guerison-nations-ezechiel47-apocalypse22",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "10x_wwVTef2bnyoRPJSBKN4WwttN3iUUi",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-arbre-vie-trone-fleuve-apocalypse22",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "10x_wwVTef2bnyoRPJSBKN4WwttN3iUUi",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-apocalypse21-22-ezechiel47-fleuve-arbres-epouse-258",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "10x_wwVTef2bnyoRPJSBKN4WwttN3iUUi",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1eR1uQ_MtIjMNkMbAgRXIAfMHxFVHewHS",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-genisse-rousse-cedre-hysope",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1eR1uQ_MtIjMNkMbAgRXIAfMHxFVHewHS",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-cedre-hysope-cramoisi-purification",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1eR1uQ_MtIjMNkMbAgRXIAfMHxFVHewHS",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-salomon-cedre-hysope-sagesse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1eR1uQ_MtIjMNkMbAgRXIAfMHxFVHewHS",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-ezechiel17-deux-aigles-cedre-vigne-rameau-messianique",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1eR1uQ_MtIjMNkMbAgRXIAfMHxFVHewHS",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-huile-menorah-sept-lampes-sept-yeux-sept-esprits",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-yeux-zacharie3-zacharie4-apocalypse5",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-lampes-menorah-zacharie4-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-carte-deux-oliviers-menorah",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-deux-oliviers-deux-temoins-zacharie4-apocalypse11",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-deux-chandeliers-sept-eglises-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-sept-eglises-apocalypse2-3",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-deux-bois-deux-oliviers-deux-temoins-ezechiel-zacharie-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-zacharie4-deux-oliviers-menorah-deux-temoins",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-menorah-exode25-calices-boutons-fleurs-arbre",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-romains11-olivier-israel-nations",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-carte-douze-fruits-fondements",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-pierres-pectoral-fondements",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-ezechiel28-pierres-eden-pectoral-septante",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-pierre-gravee-pectoral-iniquite-un-jour",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-onyx-epaules-pectoral-coeur-noms-israel",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-jerusalem-celeste-douze-portes-fondements-ezechiel48",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-pectorale-aaron-fondements-gemmes-hebreu-septante-apocalypse",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-ezechiel28-neuf-douze-pierres-eden-pectorale",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-pierres-pectorale-aaron-fondements-jerusalem",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-pierres-hebreu-septante-benjamin-yashfeh",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-benjamin-loup-bien-aime-demeure-jaspe",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-portes-douze-fondements-pierres-pectorales-apocalypse21",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-pectorale-douze-pierres-hebreu-septante-apocalypse21-interactif",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-yashfeh-jaspe-benjamin-apocalypse21",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-traditions-antiques-yashfeh-benjamin",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-couleurs-inscriptions-pectorale-sources-rabbiniques",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-ourim-toummim-lumiere-verite-jugement",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-verges-douze-pierres-noms-israel",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+      "url": "OUVRIR_LE_PORTAIL.html#hub-pectorale-douze-pierres-fondements-audit",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1RGwUFOGVyHKs5xTl2iz0zwFJBgkjzzQZ",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-douze-pierres-pectorale-aaron-fondements-jerusalem",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    },
+    {
+      "source": "1RGwUFOGVyHKs5xTl2iz0zwFJBgkjzzQZ",
+      "url": "OUVRIR_LE_PORTAIL.html#fiche-index-general",
+      "target": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+      "reason": "ancre absente"
+    }
+  ],
+  "exact_duplicates": [
+    [
+      "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R"
+    ],
+    [
+      "1sw10KjD_cNwIQMffYo714UG5KzqCEiRk",
+      "1uzKR-a4wW6jzV3Htog0kTTsJ7i2qwdCX"
+    ]
+  ],
+  "same_name_versions": {
+    "Carte_conceptuelle_illustree_cliquable_Statue_Marianne.html": [
+      "1QZj9op_C4YxKAxVQvzHzcEpBy6HjHGqr",
+      "1hWTar7rnebScqoMJf-lA6LmocgiECG0C"
+    ],
+    "AUDIT_OLIVIERS_MENORAH.html": [
+      "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+      "101O6CZJ54rTUzZFhHYHUmUkV-Jm6Qm2R"
+    ],
+    "Carte_Menorah_Arbre_de_Vie_Interactive.html": [
+      "1sw10KjD_cNwIQMffYo714UG5KzqCEiRk",
+      "1uzKR-a4wW6jzV3Htog0kTTsJ7i2qwdCX"
+    ]
+  },
+  "canonical": {
+    "Souverainete_pouvoirs.html": "1RVW2CPDWG9sTUi4ANe8u2Q1yFvMw6G3X",
+    "SOUVERAINETE_NUMERIQUE_2026-10-14.html": "1dxSxeNCFOiD1uZ_d_uXXMqltOROe4P71",
+    "BENJAMIN_YASHFEH.html": "1Lmj89NYBpo-EECtukubuu-VxTij6HN0Q",
+    "GERME_REJETON_RACINE_ETOILE_DAVID_ESAIE11_JEREMIE23_ZACHARIE3_6_NOMBRES24_APOCALYPSE22.html": "1V_Q61RrzNk-ueav3FRcNOMP3TyBMKX3u",
+    "GUERISON_NATIONS_FIN_MALEDICTION_GENESE3_ESAIE25_65_APOCALYPSE21_22.html": "1aIvI3JXYzk5-g7DoQouitkK4bEI7SnKJ",
+    "GERME_PIERRE_SEPT_YEUX_ZACHARIE_APOCALYPSE.html": "1RJZ23qUj8nrRcct2ddbtih-8Rte6BY3r",
+    "FRONTIERES_JUDA_BENJAMIN_HINNOM_MORIJA.html": "1wM7QpW7D7VM0bv5DcbKQfWsfvVsXCwUN",
+    "FEMME_DESERT_AILES_AIGLE_MANNE_EXODE19_DEUT32_EZECHIEL16_APOCALYPSE12.html": "1voVUXPPYj60_mtmlqTWH5CNS5vJ6lKXj",
+    "FEMME_BABYLONE_TYR_JEREMIE.html": "1_M234q4Qq-nDQCt_x74POIWM2_ZwymeB",
+    "ESAIE_PIERRE_ANGULAIRE_FONDEMENTS.html": "1naFxUTWT8tZ8j465jtJQ0HRhh14gF7Js",
+    "EAU_VIVE_TEMPLE_ARBRE_VIE_EZECHIEL47_JEAN4_JEAN7_APOCALYPSE22.html": "1laL3FuQhhCnhVQRFIynHRHGbdRYVx0TO",
+    "EPOUSE_FIN_LIN_INVITES_VIERGES_ESAIE61_MATTHIEU22_25_EPHESIENS5_APOCALYPSE19.html": "1NV6bG7Hk4q8R_P4mXMq9Cf3QeMuISiuL",
+    "EAU_COEUR_NOUVEAU_ESPRIT_LOI_EZECHIEL36_JEREMIE31_JEAN3_2COR3.html": "1APkoVI_VPjtfAyhNrpWD2G_gBtw7CI4q",
+    "DOUZE_TRIBUS_PORTES_FONDEMENTS_GENESE49_EZECHIEL48_APOCALYPSE7_21.html": "1mU3Qv4vZwCKHX3D10z7ijdNSYlKIN4xD",
+    "DOUZE_PORTES_QUATRE_ORIENTS_NATIONS_LUMIERE_ESAIE43_60_EZECHIEL48_APOCALYPSE21.html": "11Y9y0jD4fcR52VLNEgWjTucE5Fmltxpv",
+    "DESCENDANCE_FEMME_SERPENT_DRAGON_GENESE3_ESAIE27_APOCALYPSE12_20_JEAN8.html": "1JHeCgYlrAEP0mWgo8WTrdN53yjwqdVHW",
+    "CINQUIEME_SCEAU_ROBES_BLANCHES_GRANDE_FOULE_PREMIERE_RESURRECTION_APOCALYPSE6_7_12_20.html": "17EtdTYEwTZuDiT6UsAbpcr2QiQyv7FnU",
+    "GLOIRE_NATIONS_ROIS_FIN_NUIT_ESAIE60_ZACHARIE14_APOCALYPSE21_22.html": "1iWfkoVr1trCxCqSYpFPX1nEIaYJj20co",
+    "GLOIRE_SANCTUAIRE_EXODE40_ROIS8_EZECHIEL10_11_43_JEAN1_APOCALYPSE21.html": "1KdMytTAtkp-pUWBUOgKKrzKyewRqxICt",
+    "IASPIS_YASHFEH_COULEURS_ANTIQUES.html": "1xA5ajulCr1QMpSaZ7yMnUm5sOQAZCff3",
+    "LIVRE_VIE_NOMS_INSCRITS_LIVRES_JUGEMENT_EXODE32_DANIEL7_12_APOCALYPSE3_5_20_21.html": "1CMw19WYM_6R7HUNpS3qp2WnaGtHMd4HM",
+    "LION_JUDA_AGNEAU_IMMOLE_LIVRE_SEPT_SCEAUX_GENESE49_ESAIE53_DANIEL7_APOCALYPSE5_6.html": "1L_6zL4Y_ZrzL-Jk8lioqbq3aiWnhhCvm",
+    "MANNE_CACHEE_PAIN_CIEL_FRUIT_ARBRE_VIE_EXODE16_DEUT8_JEAN6_APOCALYPSE2_22.html": "1-Xoke6phTaXPIZkisoUXPPDJfeWBoObg",
+    "NASA_KAPHAR_SALACH_FAUTE_EXPIATION_PARDON.html": "1c88nTRMgWHzrnUul3gOIK098FhIL-DlX",
+    "NASA_PORTER_FAUTE_LEVITIQUE16_ESAIE53.html": "1ISE0nfVfUcGXZHPr8l9D3HKIHNAIgAT-",
+    "NOFEKH_YASHFEH_HEBREU_GREC.html": "1DdsLqMlVzETvskTdPGfOpASA1phGy3zm",
+    "´NOM_NOUVEAU_PIERRE_BLANCHE_NOUVELLE_JERUSALEM_ESAIE56_62_APOCALYPSE2_3_22.html": "1P2SNnshttX2wBc1gbb_JEr2Dq_TisbTM",
+    "NOURRITURE_IDOLES_TABLE_SEIGNEUR_NOCES_AGNEAU_NOMBRES25_1COR10_APOCALYPSE2_19.html": "1839hGHmizO01LEqjp7bCpuabntbcyOG3",
+    "ORDRE_NOMS_PECTORAL_BENJAMIN_YASHFEH.html": "1sdmshXxUvmcQCMRDkrKPe0U0gNu6oJQh",
+    "PIERRE_REJETEE_ACHOPPEMENT_DANIEL2.html": "1DpZOwR_hv6BdzLJdFw7vW4kTvd5ifjMm",
+    "PRESENCE_DIVINE_GENESE3_EXODE25_EZECHIEL37_JEAN1_APOCALYPSE21.html": "1UEiXzqfpxB7SMGqm0PPUszf3CvDRWwiA",
+    "QUATRE_CAVALIERS_CINQUIEME_SCEAU_MARTYRS_ZACHARIE1_6_APOCALYPSE6_19.html": "1mF1Rx3vgqp2jTAPN8P4IrAqDmoJ_SY-5",
+    "SEMENCE_FEMME_ABRAHAM_DAVID_MESSIE_GENESE3_12_22_2SAMUEL7_GALATES3_APOCALYPSE22.html": "1mHdERT-0sqwY2soGKye1kzKa3TBdXjcJ",
+    "SEPT_LAMPES_MENORAH_OLIVIERS_ESPRITS_LUMIERE.html": "1Qi40UUSUwvdvmtC-32g-gL3UwMmldpg4",
+    "SEPT_YEUX_SEPT_ESPRITS_SEPT_CORNES_AGNEAU_ZACHARIE4_ESAIE11_APOCALYPSE1_4_5.html": "1U4Q0jSLdSY8y_YbxTnjQwhdi1JzjwxLT",
+    "PARDON_CONSEQUENCES_EXODE34_NOMBRES14_EZECHIEL18_JEREMIE31_HEBREUX.html": "1Li0Mm8hTq61euBHWTPFUj9twRoPCUM63",
+    "PLiNE_ANTHRAX_IASPIS_COULEURS.html": "141zDWyuiVI1Swirl9XltSLmXSQUNhsIO",
+    "CROISEE_GERME_PIERRE_SEPT_YEUX_ESPRIT_ZACHARIE3_4_ESAIE11_APOCALYPSE5.html": "1sOzw4yf7pgiDhBkAIu2zqxyrEkGLajpO",
+    "DANIEL7_APOCALYPSE17_SEPT_TETES_HUITIEME_ROI.html": "1-pD4lqhGaLnP-g_BiReZfjv5S3x_nsjV",
+    "DEUX_OLIVIERS_DEUX_TEMOINS_ZACHARIE4_APOCALYPSE11_MOISE_ELIE.html": "1MzLp4M4wFWfLBBqBqUe7VFcpxZVwUJdp",
+    "DEUX_BOUCS_LEVITIQUE16_ESAIE53_HEBREUX_JEAN1.html": "1-fBbZxBAUmVQ06AVpViWoYJU7ZYWGddE",
+    "DANIEL_2_7_PIERRE_ROYAUME_SAINTS.html": "1DULA_9hkGbVzJqOwLaJGjlthds-O6dKh",
+    "BENJAMIN_YASHFEH_GRENADE.html": "1qQXlIVgqL89Yp3kdMMtDU4pHEBHtOw4e",
+    "BENJAMIN_ENTRE_SES_EPAULES_TEMPLE.html": "1PbR9FUWJMHdVxi2CLZHT28OScc_jEjn_",
+    "BENJAMIN_DOUZE_COULEURS_LOUP_BIEN_AIME.html": "1IWg1e7LdQ6EjHhv_Uqlo7IIOIQklqxrw",
+    "BABYLONE_EPOUSE_AGNEAU_DEUX_CITES.html": "1vuxIkuDxY1kPTbqEhR4rjohI-aZrT75u",
+    "AZAZEL_DESERT_HORS_CAMP_LEVITIQUE16_HEBREUX13.html": "1BvP3fBNJ3ZdTI2VnaMCxvTdoEqlnys2C",
+    "AUTEL_BANDE_JUDA_BENJAMIN_EZECHIEL.html": "1swrL5enXnPmZOSaEiKqD3KCeS0aToNZC",
+    "ARBRE_VIE_DOUZE_FRUITS_GENESE_EZECHIEL_APOCALYPSE.html": "1oxR7kIIjrlizG1jfzs_Ud_GoVAAxVYqY",
+    "144000_SCEAU_NOM_FRONT_EZECHIEL9_APOCALYPSE7_14_22.html": "1DYn2W1S9te1ImoBS-CEEhq7yQ5UPOFRb",
+    "TEMOIGNAGE_SAC_TROIS_JOURS_DEMI_SOUFFLE_VIE_APOCALYPSE11_EZECHIEL37_DANIEL7.html": "1-tO7YrVljR57FQSOor_jfPSZaV_1wHvV",
+    "TEMPLE_JUDA_BENJAMIN_TRADITIONS_TOPOGRAPHIE.html": "1-sZcmeLewAZRnLkrx-XI4k3rM1aj5PZM",
+    "TEMPS_PROPHETIQUES_1260_JOURS_42_MOIS_DANIEL7_12_APOCALYPSE11_12_13.html": "1EQD2CCF-IU-harD3NJl8EioYlcVIOZm2",
+    "ZACHARIE_4_12_14 PHILOLOGIQUE.html": "1yuLqNcPLFRURgTQKm4b33UY4bEXgX6SU",
+    "VETEMENTS_SACERDOTAUX_BABYLONE_EPOUSE.html": "156lbntR_vFwiediTM_rvo125qirmRzEh",
+    "YESOD_FONDATIONS_AUTEL_TEMPLE_JERUSALEM.html": "1D-DoZs_kh4FbQoIO-LxY2R5dNBK0YcyB",
+    "ZACHARIE3_VETEMENTS_BLANC_SAINTETE_YHWH.html": "1ZMwjA6-JuJmnqztHxZxBKTwczmP67KKS",
+    "ZACHARIE3_UN_SEUL_JOUR_LEVITIQUE16_HEBREUX_APOCALYPSE5.html": "1FogjtvlojeTHxxpMCGHqZiDvm8Z560wA",
+    "Taureau_Lion_Pouvoir.html": "137YuKq9a6z8lLWWRbTup_dm58so8WIu4",
+    "PSAUME29_CARTE_VISUELLE.html": "1DYs0skfGFHgm0fXc_MLuEG_JU-fCNMUq",
+    "MELCHISEDEK_AARON_MESSIE_HEBREUX7.html": "1EUJF1OOMFQopDDFeirWckxFy9s52G6ek",
+    "SEPT_EGLISES_APOCALYPSE_2_3.html": "1rE7l1h5ewCAQh-1CWkLeo8qtA0N6mey5",
+    "SIX_SCEAUX_CARTE_ZOOM_TACTILE.html": "1hUb4kWYPbpasLPtEZrURSVQs8GaDaBQW",
+    "ZACHARIE6_TSEMAH_GERME_ROI_PRETRE.html": "1CRkrLPOmD_EUGIW2htjO8dHHZ3HRxRmA",
+    "FEUlLLES_GUERISON_NATIONS.html": "12mWra0119saXKYSHvjf4JNsWrRWmmkRW",
+    "DOUZE_FRUITS_ARBRE_VIE.html": "14OConQnvU1NNDgIZVBqeuSHadjfjwDIW",
+    "DEUX_CHANDELIERS_SEPT_EGLISES.html": "1qel7INvH5XpAycHBkijPugpJgycy523p",
+    "ARBRE_VIE_TRONE_FLEUVE_APOCALYPSE22.html": "1BF_Xc9E-JZ4fTxWDX9kKjmwWLiMDBX0l",
+    "EDEN_EZECHIEL_NOUVELLE_JERUSALEM_CARTE_INTERACTIVE.html": "1Sg1UwELtvqLoiIkUhGkF_Ww9ED3JxWrB",
+    "APOCALYPSE21_22_EZECHIEL47_FLEUVE_ARBRES_EPOUSE_258.html": "1cH0rmz688anpJDPbaR9cXu6yTnuwivt7",
+    "Adam_interactif.html": "13GqH0gHPjNMRGB0WjOoK3nqC8MGHXD03",
+    "FRESQUE_IMMERSIVE_ADAPTATIVE_DU_MIROIR.html": "1pAzOQz9-SSUJL8AC3063zPNgt69-XdM7",
+    "Justice du roi, défense du pauvre et responsabilité des bergers — Psaume 72, Jérémie 22, Ézéchiel 34 — 2026-10-12 — V16.145.html": "1xdr7MI57asLcHp_KaH_mNhTQNUmI4O3x",
+    "6ae64832-0880-83e9-ac94-a8f08b6878d2": "1FvQY5jOyF9B0s8uHcUPTF7EiTIarc5lC",
+    "carte_interactive_zera_langage_du_vivant.html": "1LhYGK2YXdCUbwChORzJ3uTiRDepTDPBy",
+    "Koush_Hermes_Phoronee_carte_interactive.html": "1RD-VtY29ijXFBf521lArgurVlJMrHTYO",
+    "Carte_conceptuelle_illustree_cliquable_Statue_Marianne.html": "1hWTar7rnebScqoMJf-lA6LmocgiECG0C",
+    "Carte_visuelle_interactive_sept_voix_YHWH.html": "1lfazZkp28PVp6IIIOclrNjbVkxkTd027",
+    "AUDIT_OLIVIERS_MENORAH.html": "1Dsc1Xs-EplSUV0EEc1zrS_mAwZWsCVv4",
+    "COMPARAISON_OLIVIERS_MENORAH_11_FICHES.html": "1rrRgIIHF0JxnHMu0jnICgnY-n2DAyEs4",
+    "AUDIT_SEPT_YEUX_PIERRE_TRONE.html": "16M1xgF-RDmZk5QpTbb5b8jpkZZdNBguV",
+    "COLLATION_DOUZE_PIERRES_EXODE_APOCALYPSE.html": "1sXF4bk9o30mHAxrhIkxu9q7sLcrGXhru",
+    "Le_tremplin_de_lAntechrist_version_claire_mobile.html": "11-5vcex4fYcqe13Ny9u4Y9jFXDIoFuaM",
+    "Carte_Statue_Marianne_NAVIGATION_LIEE.html": "1T07FzPhcaODUssdUQc424H5YfwHkGFhu",
+    "Carte_interactive_Taureau_Marseille.html": "1zs5w-gCFKNLOd_yVQVb-txmSdOYE54jO",
+    "00_Accueil_maillage.html": "1JygI45tUIFQOt-XJ_rynb7-FCnn__UTh",
+    "Le_Langage_du_Vivant_PORTAIL_LEGER.html": "1Ik77AGPSuFWPabrfnN4fTxQ0THwIf9j_",
+    "Carte_interactive_Tyr_Melqart_Marseille.html": "1Ct3msMdAN0DaeUh7LAcWQ-sogiU_5dCT",
+    "Marianne_INDEX_INTERACTIF_LISIBLE.html": "1estLA27GiKd634eJQz7lW5Ws-EEhLtOy",
+    "AUDIT_THEMATIQUE.html": "1HlVBLdoPrcahjkIAMVFg3xz4cPSSFRbh",
+    "AUDIT_ARBRES_JARDIN.html": "1FSFUFyLrQnnDipq4B_tBWSs2GFs1AuSK",
+    "AUDIT_CROISE_EZECHIEL47_APOCALYPSE.html": "10x_wwVTef2bnyoRPJSBKN4WwttN3iUUi",
+    "AUDIT_CEDRE_HYSOPE_CRAMOISI.html": "1eR1uQ_MtIjMNkMbAgRXIAfMHxFVHewHS",
+    "Inventaire_mobile_portail_Langage_du_Vivant.html": "1VsSdN1GErmN6N2CuKCXk4bg4b4cw8o31",
+    "AUDIT_PECTORAL_FONDEMENTS.html": "12rMD6b3aa79Hn4XDDWEVXvwiN37zyvUG",
+    "COLLATION_JOSEPHE_SEPTANTE_ANTHRAX_IASPIS.html": "1RGwUFOGVyHKs5xTl2iz0zwFJBgkjzzQZ",
+    "Carte_Marianne_VERSION_LISIBLE.html": "1TplbywWBJyu76Hjbi_rBoGfUi4RLWl0p",
+    "Carte_Menorah_Arbre_de_Vie_Interactive.html": "1sw10KjD_cNwIQMffYo714UG5KzqCEiRk",
+    "Carte_interactive_Nimrod_Amraphel_Ninos_Osiris_Melqart_Dionysos.html": "1_-GiA-NexHW2MAlhc-hWdK1p9rVtEwMy",
+    "Noe_Babel_CARTE_VERTICALE_INTERACTIVE.html": "1_DT5RCc0yQHs0K_0hcUSJNQwI9asFwBA",
+    "B07_Heraldique_edition_claire_illustree.html": "1i5rNbfFeLjgS9yYrTktdBwHbplk6Obqz",
+    "Tyr_Melqart_et_complements_bibliques_SOMMAIRE.html": "1p1b9XljOVKgyPZFqLSFbkJug4p6vxfbm",
+    "Miroir_des_deux_royaumes_et_des_deux_cites.html": "1zlXSTYcPferivZWoVpjI3HJDi-xFn879",
+    "Branche_B_deux_semences.html": "1rZEFDzPGqqpRVhCLtv91uEWLQqjG6RUW",
+    "Miroir_des_deux_cites.html": "1pQQ5LfFr2VRP2kDHY3qTrouvjvPbhtW0",
+    "C_Jardin_alliances_et_arche.html": "1uwMPuxYzB578WIAbQ-vUEHS2K5Mxd3iW",
+    "C_Pierres_et_etres_vivants.html": "1Qp0WOzyMB7g981lMYKSDfkHAF54u0hnO",
+    "TYR_Dossiers_historiques.html": "1C1BJxGwn45_2wO78B9FTLAa-wWKdDL7Z",
+    "B07_antiquite.html": "1U0uW-aA-_G8X1-Iv7p0gh_8A-ag2OYt9",
+    "B07_Textes_bibliques.html": "1CWJQawyyB_gj4RAmNMkVmLVDwDXgzfP8",
+    "B07_CONTROLE_JEAN_ANTICHRIST_CORAN_N1_N2_N3_2026-10-14.html": "1_Mf6BcjEOfVmRBIduosxjqX_J4aYtoUH",
+    "Source_Engelbreth_1811_C252.html": "1asQ8RA37wzh_1vU1az6JZoVH5Z24AHNz",
+    "Complement_10_Temple_encens_et_Arche_controles_textuels.html": "1ovIaH634_Xa7z2jo8iNq7SaKgSO3XXfr",
+    "Complement_19_Deux_semences_autorites_et_accomplissement.html": "1NjPmMZsVBdIh7ddAW_snEeX4Gxmq-1en",
+    "Complement_13_Arche_cherubins_et_tribus_textes_retablis.html": "1utNsC4kIhZAYC45vCxwnv4XPkuFuvgzD",
+    "Complement_11_Royaute_et_sacerdoce_notices_historiques.html": "1seuycD2MJn3GwVZIfv7SfrX-I0c-z0z2",
+    "Complement_14_Violence_commerce_et_fraternite.html": "1D5-Q7pDTGYZeVK3UbfLPW0eLYY_2ZUaY",
+    "B08_B09_Babylone_Jerusalem.html": "1-VwCoKzAYkl2N6hHHUPTlAD5k3sezIsY",
+    "B01_B06_Genese_Daniel.html": "1pTC4cIDmK648DnN6jIA993gP6F_EQQUA",
+    "Complement_18_Deux_semences_noms_signes_et_demeures.html": "1vMASWH2fcXFcNv_Oa3M2byuDZdRkrP90",
+    "Complement_17_Exode_royaumes_et_heritages.html": "1NSg53V8w9ZomeltjWiepNR3htU2D9-1R",
+    "Complement_16_Messie_genealogies_et_delivrance.html": "1ZAtg091_huZFN9mhK-Jm7BCxtE94TKQ0",
+    "Complement_15_Edom_jugement_et_Roi_de_gloire.html": "1MFwlY9cwb4SvV9YKpwwoiVrgizOL-7mR",
+    "C532_Deux_sacerdoces_deux_autels.html": "1Vw_trjGPycpNuhB3Rf0lo3R-k1bRQT2R",
+    "C533_Deux_feux_deux_purifications.html": "10Veh-Q-QHt5XrD0pveyZjzy81J8PFrNJ",
+    "C_Alliances_sacerdoce_fetes.html": "1sb--g3vLRk___WOaxBujARbKCwl6GeoI",
+    "Complement_12_Romains_Psaumes_et_Esaie_citations.html": "152aW4sjOPkHiX7xTXiFC-vVHmCoGZ7Nz",
+    "Complement_09_Esprit_Daniel_et_temoins_de_la_resurrection.html": "1xUS2Sgj_HrUBNIRPgqW9KKuCi3OOpGzb",
+    "Complement_08_Royaumes_arbres_et_delivrance.html": "1h1bB_coIwut7pAzCLbdeqzspwhj1v7pw",
+    "Complement_06_Alliance_naissance_et_resurrection.html": "1E6FfEhy47WTj7jQAyZNmjHsIR8Ud-8_V",
+    "Complement_07_Resurrection_sanctuaire_et_nations.html": "1BjsPNjSjIEGLhZUOmwKZnojAGS44BFKl",
+    "Complement_05_Ecritures_Esprit_et_promesse.html": "1BEK7pcDkRV9FHu2UgBeBC-D6z-gwGyW8",
+    "Complement_04_Jean_signes_Passion_et_accomplissement.html": "1E_ut0IYeD1pkJWzVTHHyaGFabtDfjNA4",
+    "Complement_03_Jean_berger_gloire_et_temoignage.html": "1dQ6THwQ7-oOhFRbHa8CeYYuyUtVoESbX",
+    "Complement_02_Tyr_Babylone_et_Jerusalem_les_nations.html": "1YsRWwQh15PvR8G04bfkuhWhEVBnjH5E1",
+    "Complement_01_Tyr_Melqart_et_cultes_antiques.html": "1AphaF_5scyGw3kBYNNRIl0wVsxWC_kiy",
+    "B07_archeologie.html": "1TTIn9ju0pP71qBu6Jo8gQoKS3x6jpBA_",
+    "B07_heraldique.html": "1YpyoC14ElpO8xbM_q-grkqKM-MLE2q8h",
+    "B07_cartes_ciel.html": "1QVgfxNdm8M2kaLNISTs57f2NpuLC4rpf",
+    "B10_Synthese_des_deux_semences.html": "1e7w76Jb7us1xzfXY5OdNgmd_-3M0A-Xx",
+    "C_Textes_et_propheties.html": "1XGYtM1a1yMTWlgH813fQv8CsQuy-Kliu",
+    "C_Cultes_et_royaute.html": "1RTHQ86UC1tbRMsD-vtYHvq3mp9SLwude",
+    "C_Appartenance_et_noms.html": "1oFQDbRsq6aehOhuJ9CN5EcFh0Sr_G2ff",
+    "C_Temoins_et_accomplissement.html": "1A0s2OBI2VQYPg0eRnhp6q3XrVrg5m0Ub",
+    "C_Temple_et_presence.html": "1Wz_RZzscwaGBaBc5rMwFHZZNMAiJa1ji",
+    "C_Voix_semence_et_gardiens.html": "1fuxnNWs2Fnv5kpleXWTLZ3w7Q1-83LKu",
+    "C_Origines_royaumes_heritage.html": "17yn9NKru2i5VbLC0l8er2dINKygYDnkC",
+    "C_Sanctuaire_sang_vetements.html": "1ZVmcDFopwytjy4aESPgjvCXBejkIyZea",
+    "FM_Comparaisons_historiques.html": "1cZSzaieYgJBLFVDx728xTREqfik9MX4X",
+    "Complements_et_questions.html": "1oJk6loXIb7bpwhC5fAJoboZo_kfeUsFY",
+    "Chronique_Bock_Cote_2026-10-22_recherche": "1zWCVgydXSn-EBITO0lIPKk8XE-t1cqBR",
+    "Obelisque_Louxor_Paris_1836_etude_historique": "1c5YRx3K0X2Ixvi5FR9SFiUnVlGg3sV-k",
+    "Karl_Marx_Pergame_Jonathan_Cahn_controle_historique_2026-10-22": "1W1wVEN6d4w2cHrh3_zupBhXl-irlDEnk",
+    "Karl Marx, Pergame et Jonathan Cahn — contrôle historique et biblique": "1Te_B9iAmsR6TCBzJKaWVUrdnUDN05zFH",
+    "_TRANSFERT_TEMP_B07_NUMISMATIQUE_20261014.html": "1SVsWELW7c-r1ADedR39KoE5wUVQb4_Xi",
+    "_TRANSFERT_TEMP_B07_10_7_20261014.html": "1Em1n7zLVTc29fEXRKwLqWGCseMfktkFV",
+    "_TRANSFERT_TEMP_B07_TERRITOIRES_20261014.html": "1znLr0r_2PFm-3c67mnIC4FMq419duyHR",
+    "Symboles_bibliques_index_maitre.html": "1HRSiI54ovE5Z9oZo9ea7ayYcPD8dhruO",
+    "Le_Langage_du_Vivant_FRESQUE_IMMERSIVE_CONTINUE_MOBILE_TABLETTE.html": "1dH4aQPVyzaVhNxw2N6WqOOgcv4hkxvIh"
+  }
+}
